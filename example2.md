@@ -1,5 +1,5 @@
 ---
-title: 2nd example
+title: 2nd example.1
 authors:
 - sally_smarts
 - wesly_wisdom
