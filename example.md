@@ -1,5 +1,5 @@
 ---
-title: This is a Knowledge Template Header
+title: This has been adjusted
 authors:
 - sally_smarts
 - wesly_wisdom
